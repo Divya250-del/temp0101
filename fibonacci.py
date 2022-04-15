@@ -1,5 +1,5 @@
 
-from crypt import methods
+
 from flask import *
 app=Flask(__name__)
 
